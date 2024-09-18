@@ -17,5 +17,7 @@ Consegui completar o jogo em menos de uma semana, e foi uma ótima experiência 
 * Um compilador C (usei MinGW 64-bit no Windows).
 
 *Para facilitar, baixe o instalador raylib para windows, e no ambiente w64devkit insira o código a seguir:*
+
 cd "diretório-onde-está-localizado-o-arquivo-do-jogo"
+
 gcc -o jogo-da-velha jogo-da-velha.c -I"C:\raylib\w64devkit\x86_64-w64-mingw32\include" -L"C:\raylib\w64devkit\x86_64-w64-mingw32\lib" -lraylib -lwinmm -lgdi32 -lopengl32
