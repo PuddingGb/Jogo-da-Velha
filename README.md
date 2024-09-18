@@ -6,15 +6,15 @@ Consegui completar o jogo em menos de uma semana, e foi uma ótima experiência 
 
 **Funcionalidades**
 
-*Jogo da Velha para 2 jogadores.
-*Interface gráfica feita com raylib.
-*Detecção de vitória para combinações horizontais, verticais e diagonais.
-*Detecta quando o jogo termina em velha (empate).
+* Jogo da Velha para 2 jogadores.
+* Interface gráfica feita com raylib.
+* Detecção de vitória para combinações horizontais, verticais e diagonais.
+* Detecta quando o jogo termina em velha (empate).
 
 **Requisitos**
 
-*raylib (certifique-se de que está instalada ou vinculada corretamente).
-*Um compilador C (usei MinGW 64-bit no Windows).
+* raylib (certifique-se de que está instalada ou vinculada corretamente).
+* Um compilador C (usei MinGW 64-bit no Windows).
 
 *Para facilitar, baixe o instalador raylib para windows, e no ambiente w64devkit insira o código a seguir:*
 cd "diretório-onde-está-localizado-o-arquivo-do-jogo"
